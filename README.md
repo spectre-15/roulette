@@ -2,7 +2,6 @@
 Simple roulette game with python.
 
 Some notes:
-- THIS IS A PYTHON CODE PROJECT.
 
 - Inputs are case sensitive.
 - You will need some prior knowledge of how to play in order to use this code.
